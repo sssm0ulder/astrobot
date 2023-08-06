@@ -4,6 +4,8 @@ token = "6036683898:AAFRLNPNKYOPBV1QBtnM2ykEIzXINBfKYjk"
 [database]
 datetime_format = "%Y-%m-%d %H:%M"
 
+date_format = "%Y-%m-%d"
+
 [files]
 how_to_send_geopos_screenshots = [
     "AgACAgIAAxkBAAICV2TI51VeaB0kOOY_3LaFLSE4rYiNAALHxjEbLs0ISpQQJox8dz7FAQADAgADeQADLwQ",
