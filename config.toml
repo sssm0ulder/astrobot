@@ -12,6 +12,7 @@ how_to_send_geopos_screenshots = [
     "AgACAgIAAxkBAAICV2TI51VeaB0kOOY_3LaFLSE4rYiNAALHxjEbLs0ISpQQJox8dz7FAQADAgADeQADLwQ"
 ]
 wait_sticker = "CAACAgIAAxkBAAIDM2TMA7RyqtTEVZ_7whyRRcz-cBEaAAIjAAMoD2oUJ1El54wgpAYvBA"
+start_video = "BAACAgIAAxkBAAIG3GTtkQLLlzZoXXSmMa5RV_0cVD_7AAIQLgACTRq5SJaX7K2SIZmAMAQ"
 
 [admin_chat]
 id = -1001897868350
