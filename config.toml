@@ -2,8 +2,8 @@
 token = "6036683898:AAFRLNPNKYOPBV1QBtnM2ykEIzXINBfKYjk"
 
 [database]
-datetime_format = "%Y-%m-%d %H:%M"
-date_format = "%Y-%m-%d"
+datetime_format = "%d.%m.%Y %H:%M"
+date_format = "%d.%m.%Y"
 
 [files]
 how_to_send_geopos_screenshots = [
