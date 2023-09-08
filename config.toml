@@ -1,6 +1,10 @@
 [bot]
 token = "6036683898:AAFRLNPNKYOPBV1QBtnM2ykEIzXINBfKYjk"
 
+[payments]
+yookassa_token = "test_5uJtCYfPtF0vJtoIj6xuWCwvR3YflyEIjz5iym81jgc"
+yookassa_shop_id = 250335
+
 [database]
 datetime_format = "%d.%m.%Y %H:%M"
 date_format = "%d.%m.%Y"
