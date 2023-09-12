@@ -1,5 +1,6 @@
 [bot]
 token = "6036683898:AAFRLNPNKYOPBV1QBtnM2ykEIzXINBfKYjk"
+username = ''
 
 [payments]
 yookassa_token = "test_5uJtCYfPtF0vJtoIj6xuWCwvR3YflyEIjz5iym81jgc"
