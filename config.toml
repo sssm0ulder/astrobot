@@ -5,6 +5,7 @@ username = ''
 [payments]
 yookassa_token = "test_5uJtCYfPtF0vJtoIj6xuWCwvR3YflyEIjz5iym81jgc"
 yookassa_shop_id = 250335
+offer_url = '<url to web page with offer>'
 
 [database]
 datetime_format = "%d.%m.%Y %H:%M"
