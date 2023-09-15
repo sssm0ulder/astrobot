@@ -1,11 +1,11 @@
 [bot]
 token = "6036683898:AAFRLNPNKYOPBV1QBtnM2ykEIzXINBfKYjk"
-username = ''
+username = "test1234523432_bot"
 
 [payments]
 yookassa_token = "test_5uJtCYfPtF0vJtoIj6xuWCwvR3YflyEIjz5iym81jgc"
 yookassa_shop_id = 250335
-offer_url = '<url to web page with offer>'
+offer_url = "<url to web page with offer>"
 
 [database]
 datetime_format = "%d.%m.%Y %H:%M"
@@ -15,7 +15,7 @@ date_format = "%d.%m.%Y"
 how_to_send_geopos_screenshots = [
     "AgACAgIAAxkBAAICVWTI51VebcxoDT1qFftoMBOUrEGeAALFxjEbLs0ISiB-4r-uVbV8AQADAgADeQADLwQ",
     "AgACAgIAAxkBAAICVmTI51WlHW7r1LO4gi4uYRfN1VULAALGxjEbLs0ISue4y3RNpZpSAQADAgADeQADLwQ",
-    "AgACAgIAAxkBAAICV2TI51VeaB0kOOY_3LaFLSE4rYiNAALHxjEbLs0ISpQQJox8dz7FAQADAgADeQADLwQ"
+    "AgACAgIAAxkBAAICV2TI51VeaB0kOOY_3LaFLSE4rYiNAALHxjEbLs0ISpQQJox8dz7FAQADAgADeQADLwQ",
 ]
 wait_sticker = "CAACAgIAAxkBAAIDM2TMA7RyqtTEVZ_7whyRRcz-cBEaAAIjAAMoD2oUJ1El54wgpAYvBA"
 start_video = "BAACAgIAAxkBAAIG3GTtkQLLlzZoXXSmMa5RV_0cVD_7AAIQLgACTRq5SJaX7K2SIZmAMAQ"
@@ -34,7 +34,7 @@ days = [
     "Четверг",
     "Пятница",
     "Суббота",
-    "Воскресенье"
+    "Воскресенье",
 ]
 months = [
     "января",
@@ -48,6 +48,5 @@ months = [
     "сентября",
     "октября",
     "ноября",
-    "декабря"
+    "декабря",
 ]
-
