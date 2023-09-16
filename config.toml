@@ -5,7 +5,7 @@ username = "test1234523432_bot"
 [payments]
 yookassa_token = "test_5uJtCYfPtF0vJtoIj6xuWCwvR3YflyEIjz5iym81jgc"
 yookassa_shop_id = 250335
-offer_url = "<url to web page with offer>"
+offer_url = "https://dpaste.org/d0wMB"
 
 [database]
 datetime_format = "%d.%m.%Y %H:%M"
