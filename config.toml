@@ -10,6 +10,7 @@ offer_url = "https://dpaste.org/d0wMB"
 [database]
 datetime_format = "%d.%m.%Y %H:%M"
 date_format = "%d.%m.%Y"
+time_format = "%H:%M"
 
 [files]
 how_to_send_geopos_screenshots = [
