@@ -4,18 +4,17 @@ username = "test1234523432_bot"
 
 [admins]
 ids = [
-  1060062986,
-  824820503
+    1060062986,
+    824820503,
 ]
 
 [payments]
-yookassa_token = "test_5uJtCYfPtF0vJtoIj6xuWCwvR3YflyEIjz5iym81jgc"
-yookassa_shop_id = 250335
+yookassa_token = "live_6CbVNiWyPV3NkaDV8EBylx__3DlxfQqZKs86BbvlBU4"
+yookassa_shop_id = 224804
 offer_url = "https://dpaste.org/d0wMB"
 
 [database]
 datetime_format = "%d.%m.%Y %H:%M"
-
 date_format = "%d.%m.%Y"
 week_format = "%Y-W%W"
 month_format = "%Y-%m"
@@ -61,4 +60,3 @@ months = [
     "ноября",
     "декабря",
 ]
-
