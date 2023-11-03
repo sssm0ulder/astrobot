@@ -1,6 +1,6 @@
 [bot]
-token = "6036683898:AAFRLNPNKYOPBV1QBtnM2ykEIzXINBfKYjk"
-username = "test1234523432_bot"
+token = "5853891518:AAE_bnGRnzyon50cef6U1t0i3JJ8imXvmT0"
+username = "astrologykbot"
 
 [admins]
 ids = [
@@ -13,6 +13,9 @@ yookassa_token = "live_6CbVNiWyPV3NkaDV8EBylx__3DlxfQqZKs86BbvlBU4"
 yookassa_shop_id = 224804
 offer_url = "https://dpaste.org/d0wMB"
 
+[subscription]
+test_period_in_days = 5
+
 [database]
 datetime_format = "%d.%m.%Y %H:%M"
 date_format = "%d.%m.%Y"
@@ -22,9 +25,9 @@ time_format = "%H:%M"
 
 [files]
 how_to_send_geopos_screenshots = [
-    "AgACAgIAAxkBAAICVWTI51VebcxoDT1qFftoMBOUrEGeAALFxjEbLs0ISiB-4r-uVbV8AQADAgADeQADLwQ",
-    "AgACAgIAAxkBAAICVmTI51WlHW7r1LO4gi4uYRfN1VULAALGxjEbLs0ISue4y3RNpZpSAQADAgADeQADLwQ",
-    "AgACAgIAAxkBAAICV2TI51VeaB0kOOY_3LaFLSE4rYiNAALHxjEbLs0ISpQQJox8dz7FAQADAgADeQADLwQ",
+    "AgACAgIAAxkBAAIy4mVD7dyNN9UctKPNE4nfZtg7oLpdAAKw2TEbQvggSvh6o4oPysVaAQADAgADeQADMwQ",
+    "AgACAgIAAxkBAAIy5GVD7ewJF4n9YQZGj0KCtOAGzrRVAAKy2TEbQvggSnyi4kX-oXl7AQADAgADeQADMwQ",
+    "AgACAgIAAxkBAAIy5mVD7fTtcqStofwtPzdB4i1N2vRKAAKz2TEbQvggSn9HPiCDyNLIAQADAgADeQADMwQ",
 ]
 wait_sticker = "CAACAgIAAxkBAAIDM2TMA7RyqtTEVZ_7whyRRcz-cBEaAAIjAAMoD2oUJ1El54wgpAYvBA"
 start_video = "BAACAgIAAxkBAAIG3GTtkQLLlzZoXXSmMa5RV_0cVD_7AAIQLgACTRq5SJaX7K2SIZmAMAQ"
@@ -35,6 +38,7 @@ id = -1001897868350
 [admin_chat.threads]
 backup = 317
 general_predictions = 1621
+cards_of_day = 1956
 
 [constants]
 days = [
