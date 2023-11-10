@@ -1,11 +1,11 @@
 [bot]
-token = "5853891518:AAE_bnGRnzyon50cef6U1t0i3JJ8imXvmT0"
-username = "astrologykbot"
+token = "6535818476:AAGalEfi9VDqQFbzkaFrE22eTtcaqTJCzQwc"
+username = "AstroPulse_bot"
 
 [admins]
 ids = [
-    1060062986,
-    824820503,
+  1060062986,
+  824820503,
 ]
 
 [payments]
@@ -25,12 +25,12 @@ time_format = "%H:%M"
 
 [files]
 how_to_send_geopos_screenshots = [
-    "AgACAgIAAxkBAAIy4mVD7dyNN9UctKPNE4nfZtg7oLpdAAKw2TEbQvggSvh6o4oPysVaAQADAgADeQADMwQ",
-    "AgACAgIAAxkBAAIy5GVD7ewJF4n9YQZGj0KCtOAGzrRVAAKy2TEbQvggSnyi4kX-oXl7AQADAgADeQADMwQ",
-    "AgACAgIAAxkBAAIy5mVD7fTtcqStofwtPzdB4i1N2vRKAAKz2TEbQvggSn9HPiCDyNLIAQADAgADeQADMwQ",
+  "AgACAgIAAxkBAAMHZU30no5vL8Rgg3jkJNxbYOZVq88AAnnOMRvuLnBKaTY6zwq4iyUBAAMCAAN5AAMzBA",
+  "AgACAgIAAxkBAAMJZU30ovVI6a2SPtWKRcipI0HvRjQAAnrOMRvuLnBKtab1GkTX5pUBAAMCAAN5AAMzBA",
+  "AgACAgIAAxkBAAMLZU30paJAASbrQcBvJSwNxAMPFbMAAnvOMRvuLnBKsWD0F2LJWnYBAAMCAAN5AAMzBA"
 ]
-wait_sticker = "CAACAgIAAxkBAAIDM2TMA7RyqtTEVZ_7whyRRcz-cBEaAAIjAAMoD2oUJ1El54wgpAYvBA"
-start_video = "BAACAgIAAxkBAAIG3GTtkQLLlzZoXXSmMa5RV_0cVD_7AAIQLgACTRq5SJaX7K2SIZmAMAQ"
+wait_sticker = "CAACAgIAAxkBAAMPZU32ETpc2QfPVe2KRVO9sIUtaYAAAiMAAygPahQnUSXnjCCkBjME"
+start_video = "BAACAgIAAxkBAAMNZU31zJEGHKbaNgasJkPDRthbjQIAArE2AALuLnBKBydhLv1vSGozBA"
 
 [admin_chat]
 id = -1001897868350
@@ -42,25 +42,25 @@ cards_of_day = 1956
 
 [constants]
 days = [
-    "Понедельник",
-    "Вторник",
-    "Среда",
-    "Четверг",
-    "Пятница",
-    "Суббота",
-    "Воскресенье",
+  "Понедельник",
+  "Вторник",
+  "Среда",
+  "Четверг",
+  "Пятница",
+  "Суббота",
+  "Воскресенье",
 ]
 months = [
-    "января",
-    "февраля",
-    "марта",
-    "апреля",
-    "мая",
-    "июня",
-    "июля",
-    "августа",
-    "сентября",
-    "октября",
-    "ноября",
-    "декабря",
+  "января",
+  "февраля",
+  "марта",
+  "апреля",
+  "мая",
+  "июня",
+  "июля",
+  "августа",
+  "сентября",
+  "октября",
+  "ноября",
+  "декабря",
 ]
