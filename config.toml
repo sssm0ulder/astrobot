@@ -1,5 +1,5 @@
 [bot]
-token = "6535818476:AAGalEfi9VDqQFbzkaFrE22eTtcaqTJCzQwc"
+token = "6535818476:AAGalEfi9VDqQFbzkaFrE22eTtcaqTJCzQw"
 username = "AstroPulse_bot"
 
 [admins]
@@ -64,3 +64,4 @@ months = [
   "ноября",
   "декабря",
 ]
+
