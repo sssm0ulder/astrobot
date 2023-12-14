@@ -31,6 +31,9 @@ how_to_send_geopos_screenshots = [
 ]
 wait_sticker = "CAACAgIAAxkBAAMPZU32ETpc2QfPVe2KRVO9sIUtaYAAAiMAAygPahQnUSXnjCCkBjME"
 start_video = "BAACAgIAAxkBAAMNZU31zJEGHKbaNgasJkPDRthbjQIAArE2AALuLnBKBydhLv1vSGozBA"
+general_prediction = "AgACAgIAAxkBAAIIFmV6yMzXmyfGf1UKio2bbZBTYITkAAKw1DEbMvLRS9q4s1yAJQoNAQADAgADeQADMwQ"
+main_menu = "AgACAgIAAxkBAAIIGGV7Dy7jfmxYn3bhpNgfDsUMoczTAAI80DEbMvLZS3Y6LdArQED2AQADAgADeQADMwQ"
+birth_data_confirmed = "AgACAgIAAxkBAAIIGmV7D6CF2D_M5SH5M8NTLl4VdA5gAAJP0TEbMprZSxSukug4uzP9AQADAgADeQADMwQ"
 
 [admin_chat]
 id = -1001897868350
