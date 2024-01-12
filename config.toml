@@ -9,8 +9,8 @@ ids = [
 ]
 
 [payments]
-yookassa_token = "live_6CbVNiWyPV3NkaDV8EBylx__3DlxfQqZKs86BbvlBU4"
-yookassa_shop_id = 224804
+yookassa_token = "test_Cr2pOSwWf_Rjynfky0Tf4mzXlrl1Kcp002M5g9WLkqc"
+yookassa_shop_id = 292837
 offer_url = "https://dpaste.org/d0wMB"
 
 [subscription]
@@ -37,6 +37,7 @@ birth_data_confirmed = "AgACAgIAAxkBAAIIGmV7D6CF2D_M5SH5M8NTLl4VdA5gAAJP0TEbMprZ
 hello_image = "AgACAgIAAxkBAAIKsWWG4h4vsBxdksPFkaPRmV4WQY4LAAI_2TEbVDQ4SDY8H712qjF5AQADAgADeQADMwQ"
 prediction_menu = "AgACAgIAAxkBAAIMKWWOKskyR1dYvTHRXlZBLma4R9e3AALr0TEbK_VwSHpWjMtCtxNmAQADAgADeQADNAQ"
 dreams = "AgACAgIAAxkBAAIMK2WOKtasH6UE_tVM2ZPlPYeWxuJnAALs0TEbK_VwSDKmtJmER-piAQADAgADeQADNAQ"
+promocode = "AgACAgIAAxkBAAINAmWggnVqfaYU1N0GFzZB3B-2BGzxAAIE3jEbD8QISZe8T98EPxEYAQADAgADeQADNAQ"
 
 [admin_chat]
 id = -1001897868350
