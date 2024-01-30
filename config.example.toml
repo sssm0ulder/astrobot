@@ -1,0 +1,75 @@
+[bot]
+token = "6535818476:AAGalEfi9VDqQFbzkaFrE22eTtcaqTJCzQw"
+username = "AstroPulse_bot"
+
+[admins]
+ids = [
+  1060062986,
+  824820503,
+]
+
+[payments]
+yookassa_token = "test_Cr2pOSwWf_Rjynfky0Tf4mzXlrl1Kcp002M5g9WLkqc"
+yookassa_shop_id = 292837
+offer_url = "https://dpaste.org/d0wMB"
+
+[subscription]
+test_period_in_days = 5
+
+[database]
+datetime_format = "%d.%m.%Y %H:%M"
+date_format = "%d.%m.%Y"
+week_format = "%Y-W%W"
+month_format = "%Y-%m"
+time_format = "%H:%M"
+
+[files]
+how_to_send_geopos_screenshots = [
+  "AgACAgIAAxkBAAMHZU30no5vL8Rgg3jkJNxbYOZVq88AAnnOMRvuLnBKaTY6zwq4iyUBAAMCAAN5AAMzBA",
+  "AgACAgIAAxkBAAMJZU30ovVI6a2SPtWKRcipI0HvRjQAAnrOMRvuLnBKtab1GkTX5pUBAAMCAAN5AAMzBA",
+  "AgACAgIAAxkBAAMLZU30paJAASbrQcBvJSwNxAMPFbMAAnvOMRvuLnBKsWD0F2LJWnYBAAMCAAN5AAMzBA"
+]
+wait_sticker = "CAACAgIAAxkBAAMPZU32ETpc2QfPVe2KRVO9sIUtaYAAAiMAAygPahQnUSXnjCCkBjME"
+start_video = "BAACAgIAAxkBAAMNZU31zJEGHKbaNgasJkPDRthbjQIAArE2AALuLnBKBydhLv1vSGozBA"
+general_prediction = "AgACAgIAAxkBAAIIFmV6yMzXmyfGf1UKio2bbZBTYITkAAKw1DEbMvLRS9q4s1yAJQoNAQADAgADeQADMwQ"
+main_menu = "AgACAgIAAxkBAAIIGGV7Dy7jfmxYn3bhpNgfDsUMoczTAAI80DEbMvLZS3Y6LdArQED2AQADAgADeQADMwQ"
+birth_data_confirmed = "AgACAgIAAxkBAAIIGmV7D6CF2D_M5SH5M8NTLl4VdA5gAAJP0TEbMprZSxSukug4uzP9AQADAgADeQADMwQ"
+hello_image = "AgACAgIAAxkBAAIKsWWG4h4vsBxdksPFkaPRmV4WQY4LAAI_2TEbVDQ4SDY8H712qjF5AQADAgADeQADMwQ"
+prediction_menu = "AgACAgIAAxkBAAIMKWWOKskyR1dYvTHRXlZBLma4R9e3AALr0TEbK_VwSHpWjMtCtxNmAQADAgADeQADNAQ"
+dreams = "AgACAgIAAxkBAAIMK2WOKtasH6UE_tVM2ZPlPYeWxuJnAALs0TEbK_VwSDKmtJmER-piAQADAgADeQADNAQ"
+promocode = "AgACAgIAAxkBAAINAmWggnVqfaYU1N0GFzZB3B-2BGzxAAIE3jEbD8QISZe8T98EPxEYAQADAgADeQADNAQ"
+profile = "AgACAgIAAxkBAAIT9WWxJjy0q9F1UkNtfDAAAfe3h3zc-AAC5dIxG7l5iEn-e0EVFRfFCgEAAwIAA3kAAzQE"
+
+[admin_chat]
+id = -1001897868350
+
+[admin_chat.threads]
+backup = 317
+general_predictions = 1621
+cards_of_day = 1956
+
+[constants]
+days = [
+  "Понедельник",
+  "Вторник",
+  "Среда",
+  "Четверг",
+  "Пятница",
+  "Суббота",
+  "Воскресенье",
+]
+months = [
+  "января",
+  "февраля",
+  "марта",
+  "апреля",
+  "мая",
+  "июня",
+  "июля",
+  "августа",
+  "сентября",
+  "октября",
+  "ноября",
+  "декабря",
+]
+
