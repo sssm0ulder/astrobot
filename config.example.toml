@@ -22,6 +22,7 @@ date_format = "%d.%m.%Y"
 week_format = "%Y-W%W"
 month_format = "%Y-%m"
 time_format = "%H:%M"
+do_backup = true
 
 [files]
 how_to_send_geopos_screenshots = [
