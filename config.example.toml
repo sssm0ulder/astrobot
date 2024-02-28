@@ -2,6 +2,11 @@
 token = "6535818476:AAGalEfi9VDqQFbzkaFrE22eTtcaqTJCzQw"
 username = "AstroPulse_bot"
 
+[webhook]
+web_server_host = "127.0.0.1"
+web_server_port = 8080
+base_webhook_url = "https://basically-delicate-liger.ngrok-free.app"
+
 [admins]
 ids = [
   1060062986,
