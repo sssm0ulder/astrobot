@@ -1,5 +1,5 @@
 [bot]
-token = "6535818476:AAGalEfi9VDqQFbzkaFrE22eTtcaqTJCzQw"
+token = "6922859678:AAEGEPg5Bui7g7mEv7X_6eriAedC9ig9JsM"
 username = "AstroPulse_bot"
 
 [webhook]
@@ -16,7 +16,9 @@ ids = [
 [payments]
 yookassa_token = "test_Cr2pOSwWf_Rjynfky0Tf4mzXlrl1Kcp002M5g9WLkqc"
 yookassa_shop_id = 292837
-offer_url = "https://dpaste.org/d0wMB"
+offer_url = "https://docs.google.com/document/d/1pJHFPXYj5zjNmEMwswhhIWK0dzCqy9T5/edit?usp=sharing&ouid=103252247305443551712&rtpof=true&sd=true"
+prodamus_secret_key = "63b90283bb6b538c4ae6ef17cbd158a8eb3c55f62d9f1c57d0a1b3b4c13c2a87"
+prodamus_payment_link = "https://astropulse.payform.ru/"
 
 [subscription]
 test_period_in_days = 5
