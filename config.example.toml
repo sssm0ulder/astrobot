@@ -23,6 +23,12 @@ prodamus_payment_link = "https://astropulse.payform.ru/"
 [subscription]
 test_period_in_days = 5
 
+[gatebot]
+# Sync with telegram-channel-subscription-gate. Gatebot POSTs to
+# /astrobot/gatebot/sync after a paid subscription is activated.
+sync_enabled = false
+sync_secret = ""
+
 [database]
 datetime_format = "%d.%m.%Y %H:%M"
 date_format = "%d.%m.%Y"
@@ -80,4 +86,3 @@ months = [
   "ноября",
   "декабря",
 ]
-
